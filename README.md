@@ -14,4 +14,4 @@ Welcome to my GitHub profile! As a dedicated Software Engineer, I have cultivate
 
 🌐 **Collaboration & Community**: I am always open to collaborating on innovative projects, especially those intersecting with AI, ML, and computer vision. I value the power of community and believe in sharing knowledge and growing together.
 
-📫 **Get in Touch**: Let's connect! Don't forget to check out my [LinkedIn](www.linkedin.com/in/smitkevadiya50) for more insights into my professional journey.
+📫 **Get in Touch**: Let's connect! Don't forget to check out my LinkedIn: www.linkedin.com/in/smitkevadiya50 for more insights into my professional journey.
